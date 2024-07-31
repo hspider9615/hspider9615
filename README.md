@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Software Comapany**
  
- 🌱 I’m currently learning **TypeScript, Node.js, SQL**
+ 🌱 I’m currently learning **TypeScript, Node.js, Express, MongoDB**
 
 💬 Ask me about **C, C++, JavaScript, WebDevelopment... or anything [here](https://github.com/hspider9615/hspider9615/issues)**
 
@@ -51,11 +51,8 @@
   
   <br/><br/><br/>
 </div>
-
 <hr/>
-
 <br/>
-
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
