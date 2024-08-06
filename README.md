@@ -1,4 +1,4 @@
-<p align="Right"> <img src="https://komarev.com/ghpvc/?username=hspider9615&label=Profile%20views&color=0e75b6&style=flat" alt="hspider9615" /> </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hspider9615.hspider9615" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Codex+Spider!;" />
@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate software developer from Bharat (IN)</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <div align="center">
  
