@@ -3,7 +3,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Codex+Spider!;" />
 </h1>
-</br>
+<hr/>
+
 <p>
 <h2 id="-about-me"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="25px"></picture> About me</h2>
 <p><picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px"></picture></p>
@@ -52,11 +53,10 @@
 <br/>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hspider9615&show_icons=true&locale=en" alt="hspider9615" /></p> 
 <br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hspider9615&" alt="hspider9615" /></p>
-<br />
-
-    
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hspider9615&" alt="hspider9615" /></p>
+<br /> 
 </div>
+
 <hr/>
 <br/>
 <div align="center">
