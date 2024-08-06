@@ -3,7 +3,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Codex+Spider!;" />
 </h1>
-<hr/>
 
 <p>
 <h2 id="-about-me"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="25px"></picture> About me</h2>
@@ -49,9 +48,9 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />   
 
   <br/>
-<p><img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hspider9615&show_icons=true&locale=en&layout=compact" alt="hspider9615" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hspider9615&show_icons=true&locale=en&layout=compact" alt="hspider9615" /></p>
 <br/>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hspider9615&show_icons=true&locale=en" alt="hspider9615" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hspider9615&show_icons=true&locale=en" alt="hspider9615" /></p> 
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hspider9615&" alt="hspider9615" /></p>
 <br /> 
